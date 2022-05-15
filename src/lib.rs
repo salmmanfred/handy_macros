@@ -9,3 +9,4 @@ macro_rules! o {
     ($e:expr) => {
         $e.to_owned()
     };
+}
